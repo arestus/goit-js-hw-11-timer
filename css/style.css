@@ -1,0 +1,27 @@
+body {
+  font-family: "Orbitron", sans-serif;
+}
+.timer-title {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  font-size: 50px;
+}
+.timer {
+  display: flex;
+  justify-content: center;
+}
+
+.field {
+  margin-right: 20px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.value {
+  font-size: 100px;
+}
+
+.label {
+  font-size: 70px;
+}
